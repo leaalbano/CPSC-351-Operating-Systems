@@ -5,5 +5,5 @@ The parent communicates with the child using pipes.
 
 ### GROUP MEMBERS
 Lea Albano
-....
-.....
+Chalmers Tse           
+Randall Frye          
